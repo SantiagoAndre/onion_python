@@ -1,0 +1,4 @@
+SOCKSPort 9050
+ControlPort 9051
+#             /----directory----/SOCKSPort
+DataDirectory /usr/local/etc/tor/9050 #you can set directory
